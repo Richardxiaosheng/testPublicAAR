@@ -21,7 +21,9 @@ allprojects {
         google()
         jcenter()
 //        maven { url "https://raw.githubusercontent.com/wkangle/KLUtils/master" }https://github.com/Richardxiaosheng/testPublicAAR/tree/master/testUtils
-        maven { url "https://raw.githubusercontent.com/Richardxiaosheng/testPublicAAR/master" }
+//        maven { url "https://raw.githubusercontent.com/Richardxiaosheng/testPublicAAR/master" }
+        //本地绝对路径
+        maven { url "file:\\E:\\work\\demo\\testAar\\testPublicAAR\\testUtils" }
     }
 }
 

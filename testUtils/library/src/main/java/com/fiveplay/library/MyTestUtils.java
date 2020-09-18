@@ -16,6 +16,6 @@ import android.widget.Toast;
 public class MyTestUtils {
 
     public static void test(Context context,String s){
-        Toast.makeText(context,s,Toast.LENGTH_SHORT).show();
+        Toast.makeText(context,"222",Toast.LENGTH_SHORT).show();
     }
 }
