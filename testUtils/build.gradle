@@ -26,8 +26,9 @@ allprojects {
 //        maven { url "file:\\E:\\work\\demo\\testAar\\testPublicAAR\\testUtils" }
 //        https://github.com/Richardxiaosheng/testPublicAAR.git
 //        https://github.com/Richardxiaosheng/testPublicAAR/tree/master/testUtils/com/testaar/arr
+//        https://github.com/Richardxiaosheng/testPublicAAR/tree/master/testUtils/com/testaar/arr/1.0.0
 //        https://gitee.com/wangxinnote/androidBase.git
-        maven { url "https://github.com/Richardxiaosheng/testPublicAAR/tree/master/testUtils" }
+        maven { url " https://github.com/Richardxiaosheng/testPublicAAR/tree/master/testUtils" }
     }
 }
 
